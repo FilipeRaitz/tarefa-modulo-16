@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/FilipeRaitz/tarefa-modulo-16#readme",
   "devDependencies": {
-    "gulp-imagemin": "^9.0.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-obfuscate": "^0.2.9",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
