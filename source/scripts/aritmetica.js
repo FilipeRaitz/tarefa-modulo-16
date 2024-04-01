@@ -1,3 +1,3 @@
-const somar = require('./sum');
+const somar = require('./multiplica');
 
-console.log('Somar:', somar(10, 20));
+console.log('Multiplicar:', multiplica(10, 20));
